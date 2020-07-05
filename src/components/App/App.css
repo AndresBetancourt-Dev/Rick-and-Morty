@@ -1,0 +1,21 @@
+.App{
+    background: linear-gradient(45deg, rgba(32,10,59), rgba(35,7,66), rgba(55,5,99), rgba(94,14,111));
+    width: 100vw;
+    height: 100%;
+    display: grid;
+    justify-items: center;
+    transition: 2s;
+}
+
+.App__logo{
+    width: 100%;
+    max-width: 450px;
+}
+
+.App__button{
+    width: 82.5%;
+    background-color: yellowgreen;
+    color: white;
+    font-family: 'Roboto',sans-serif;
+    font-size: 20px;
+}
